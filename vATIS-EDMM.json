@@ -6576,28 +6576,28 @@
         },
         {
           "variableName": "DEP_ADVISORY",
-          "text": "WHEN AIRBORNE MONITOR ADVISORY ON 122.800",
-          "voice": "WHEN AIRBORNE, MONITOR ADVISORY ON 122.8."
+          "text": "WHEN AIRBORNE MONITOR ADVISORY 122.800",
+          "voice": "WHEN AIRBORNE, MONITOR ADVISORY 122.8."
         },
         {
           "variableName": "DEP_FRK",
-          "text": "WHEN AIRBORNE CONTACT MUENCHEN RADAR ON 129.525",
-          "voice": "WHEN AIRBORNE, CONTACT MUNSHHEN RADAR ON 129.525."
+          "text": "WHEN AIRBORNE CONTACT MUENCHEN RADAR 129.525",
+          "voice": "WHEN AIRBORNE, CONTACT MUNSHHEN RADAR 129.525."
         },
         {
           "variableName": "DEP_BBG",
-          "text": "WHEN AIRBORNE CONTACT MUENCHEN RADAR ON 133.615",
-          "voice": "WHEN AIRBORNE, CONTACT MUNSHHEN RADAR ON 133.615."
+          "text": "WHEN AIRBORNE CONTACT MUENCHEN RADAR 133.615",
+          "voice": "WHEN AIRBORNE, CONTACT MUNSHHEN RADAR 133.615."
         },
         {
           "variableName": "DEP_HOF",
-          "text": "WHEN AIRBORNE CONTACT MUENCHEN RADAR ON 133.565",
-          "voice": "WHEN AIRBORNE, CONTACT MUNSHHEN RADAR ON 133.565."
+          "text": "WHEN AIRBORNE CONTACT MUENCHEN RADAR 133.565",
+          "voice": "WHEN AIRBORNE, CONTACT MUNSHHEN RADAR 133.565."
         },
         {
           "variableName": "DEP_RDG",
-          "text": "WHEN AIRBORNE CONTACT MUENCHEN RADAR ON 132.555",
-          "voice": "WHEN AIRBORNE, CONTACT MUNSHHEN RADAR ON 132.555."
+          "text": "WHEN AIRBORNE CONTACT MUENCHEN RADAR 132.555",
+          "voice": "WHEN AIRBORNE, CONTACT MUNSHHEN RADAR 132.555."
         },
         {
           "variableName": "LVP",
@@ -8701,33 +8701,33 @@
         },
         {
           "variableName": "DEP_ADVISORY",
-          "text": "WHEN AIRBORNE MONITOR ADVISORY ON 122.800",
-          "voice": "WHEN AIRBORNE, MONITOR ADVISORY ON 122.8."
+          "text": "WHEN AIRBORNE MONITOR ADVISORY 122.800",
+          "voice": "WHEN AIRBORNE, MONITOR ADVISORY 122.8."
         },
         {
           "variableName": "DEP_SAS",
-          "text": "WHEN AIRBORNE CONTACT MUENCHEN RADAR ON 125.875",
-          "voice": "WHEN AIRBORNE, CONTACT MUNNSHEN RADAR ON 125.875"
+          "text": "WHEN AIRBORNE CONTACT MUENCHEN RADAR 125.875",
+          "voice": "WHEN AIRBORNE, CONTACT MUNNSHEN RADAR 125.875."
         },
         {
           "variableName": "DEP_TRS",
-          "text": "WHEN AIRBORNE CONTACT MUENCHEN RADAR ON 126.175",
-          "voice": "WHEN AIRBORNE, CONTACT MUNNSHEN RADAR ON 126.175"
+          "text": "WHEN AIRBORNE CONTACT MUENCHEN RADAR 126.175",
+          "voice": "WHEN AIRBORNE, CONTACT MUNNSHEN RADAR 126.175."
         },
         {
           "variableName": "DEP_GER",
-          "text": "WHEN AIRBORNE CONTACT MUENCHEN RADAR ON 133.230",
-          "voice": "WHEN AIRBORNE, CONTACT MUNNSHEN RADAR ON 133.230"
+          "text": "WHEN AIRBORNE CONTACT MUENCHEN RADAR 133.230",
+          "voice": "WHEN AIRBORNE, CONTACT MUNNSHEN RADAR 133.230."
         },
         {
           "variableName": "DEP_MEI",
-          "text": "WHEN AIRBORNE CONTACT MUENCHEN RADAR ON 124.960",
-          "voice": "WHEN AIRBORNE, CONTACT MUNNSHEN RADAR ON 124.960"
+          "text": "WHEN AIRBORNE CONTACT MUENCHEN RADAR 124.960",
+          "voice": "WHEN AIRBORNE, CONTACT MUNNSHEN RADAR 124.960."
         },
         {
           "variableName": "DEP_HOF",
-          "text": "WHEN AIRBORNE CONTACT MUENCHEN RADAR ON 133.565",
-          "voice": "WHEN AIRBORNE, CONTACT MUNNSHEN RADAR ON 133.565"
+          "text": "WHEN AIRBORNE CONTACT MUENCHEN RADAR 133.565",
+          "voice": "WHEN AIRBORNE, CONTACT MUNNSHEN RADAR 133.565."
         },
         {
           "variableName": "LVP",
@@ -10857,33 +10857,33 @@
         },
         {
           "variableName": "DEP_TRS",
-          "text": "WHEN AIRBORNE CONTACT MUENCHEN RADAR ON 126.175",
-          "voice": "WHEN AIRBORNE, CONTACT MUNNSHEN RADAR ON 126.175"
+          "text": "WHEN AIRBORNE CONTACT MUENCHEN RADAR 126.175",
+          "voice": "WHEN AIRBORNE, CONTACT MUNNSHEN RADAR 126.175."
         },
         {
           "variableName": "DEP_GER",
-          "text": "WHEN AIRBORNE CONTACT MUENCHEN RADAR ON 133.230",
-          "voice": "WHEN AIRBORNE, CONTACT MUNNSHEN RADAR ON 133.230"
+          "text": "WHEN AIRBORNE CONTACT MUENCHEN RADAR 133.230",
+          "voice": "WHEN AIRBORNE, CONTACT MUNNSHEN RADAR 133.230."
         },
         {
           "variableName": "DEP_ADVISORY",
-          "text": "WHEN AIRBORNE MTN ADVISORY ON 122.800",
-          "voice": "WHEN AIRBORNE, MONITOR ADVISORY ON 122.8."
+          "text": "WHEN AIRBORNE MONITOR ADVISORY 122.800",
+          "voice": "WHEN AIRBORNE, MONITOR ADVISORY 122.8."
         },
         {
           "variableName": "DEP_HOF",
-          "text": "WHEN AIRBORNE CONTACT MUENCHEN RADAR ON 133.565",
-          "voice": "WHEN AIRBORNE, CONTACT MUNNSHEN RADAR ON 133.565"
+          "text": "WHEN AIRBORNE CONTACT MUENCHEN RADAR 133.565",
+          "voice": "WHEN AIRBORNE, CONTACT MUNNSHEN RADAR 133.565."
         },
         {
           "variableName": "DEP_TRN",
-          "text": "WHEN AIRBORNE CONTACT MUENCHEN RADAR ON 126.065",
-          "voice": "WHEN AIRBORNE, CONTACT MUNNSHEN RADAR ON 126.065"
+          "text": "WHEN AIRBORNE CONTACT MUENCHEN RADAR 126.065",
+          "voice": "WHEN AIRBORNE, CONTACT MUNNSHEN RADAR 126.065."
         },
         {
           "variableName": "DEP_HAL",
-          "text": "WHEN AIRBORNE CONTACT MUENCHEN RADAR ON 118.235",
-          "voice": "WHEN AIRBORNE, CONTACT MUNNSHEN RADAR ON 118.235"
+          "text": "WHEN AIRBORNE CONTACT MUENCHEN RADAR 118.235",
+          "voice": "WHEN AIRBORNE, CONTACT MUNNSHEN RADAR 118.235."
         },
         {
           "variableName": "LVP",
@@ -12988,28 +12988,28 @@
         },
         {
           "variableName": "DEP_ADVISORY",
-          "text": "WHEN AIRBORNE MONITOR ADVISORY ON 122.800",
-          "voice": "WHEN AIRBORNE, MONITOR ADVISORY ON 122.8."
+          "text": "WHEN AIRBORNE MONITOR ADVISORY 122.800",
+          "voice": "WHEN AIRBORNE, MONITOR ADVISORY 122.8."
         },
         {
           "variableName": "DEP_DMAG",
-          "text": "WHEN AIRBORNE CONTACT MUENCHEN RADAR ON 128.255",
-          "voice": "WHEN AIRBORNE, CONTACT MUNNSHEN RADAR ON 128.255."
+          "text": "WHEN AIRBORNE CONTACT MUENCHEN RADAR 128.255",
+          "voice": "WHEN AIRBORNE, CONTACT MUNNSHEN RADAR 128.255."
         },
         {
           "variableName": "DEP_DMNL",
-          "text": "WHEN AIRBORNE CONTACT MUENCHEN RADAR ON 123.905",
-          "voice": "WHEN AIRBORNE, CONTACT MUENCHEN RADAR ON 123.905."
+          "text": "WHEN AIRBORNE CONTACT MUENCHEN RADAR 123.905",
+          "voice": "WHEN AIRBORNE, CONTACT MUNNSHEN RADAR 123.905."
         },
         {
           "variableName": "DEP_ZUG",
-          "text": "WHEN AIRBORNE CONTACT MUENCHEN RADAR ON 134.150",
-          "voice": "WHEN AIRBORNE, CONTACT MUENCHEN RADAR ON 134.150."
+          "text": "WHEN AIRBORNE CONTACT MUENCHEN RADAR 134.150",
+          "voice": "WHEN AIRBORNE, CONTACT MUNNSHEN RADAR 134.150."
         },
         {
           "variableName": "DEP_RDG",
-          "text": "WHEN AIRBORNE CONTACT MUENCHEN RADAR ON 132.555",
-          "voice": "WHEN AIRBORNE, CONTACT MUENCHEN RADAR ON 132.555."
+          "text": "WHEN AIRBORNE CONTACT MUENCHEN RADAR 132.555",
+          "voice": "WHEN AIRBORNE, CONTACT MUNNSHEN RADAR 132.555."
         },
         {
           "variableName": "BIRDS",
@@ -23563,5 +23563,5 @@
   ],
   "version": 4,
   "updateUrl": "https://raw.githubusercontent.com/VATGER-Nav/edmm-vatis/refs/heads/main/vATIS-EDMM.json",
-  "updateSerial": 2026091200
+  "updateSerial": 2026091201
 }
