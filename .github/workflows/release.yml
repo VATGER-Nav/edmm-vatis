@@ -3,6 +3,9 @@ name: Apply formatting and release new version
 on:
   push:
     branches: [main]
+    paths:
+      - "src/**"
+
 
 permissions:
   contents: write
