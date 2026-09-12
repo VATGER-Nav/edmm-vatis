@@ -1,0 +1,19 @@
+{
+  "observationTime": {
+    "standardUpdateTime": [
+      20,
+      50
+    ],
+    "template": {
+      "text": "{type} {day}{time}",
+      "voice": ". TIME {time}."
+    }
+  },
+  "altimeter": {
+    "pronounceDecimal": true,
+    "template": {
+      "text": "QNH{altimeter}",
+      "voice": "QNH {altimeter|hpa} HECTO-PASCALL"
+    }
+  }
+}

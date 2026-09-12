@@ -1,0 +1,9 @@
+{
+  "altimeter": {
+    "pronounceDecimal": true,
+    "template": {
+      "text": "QNH{altimeter}",
+      "voice": "QNH {altimeter|hpa} HECTO-PASCALE OR {altimeter|inhg} INCHES"
+    }
+  }
+}

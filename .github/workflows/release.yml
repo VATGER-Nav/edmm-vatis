@@ -1,0 +1,39 @@
+name: Apply formatting and release new version
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: run-and-commit-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  run-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.14"
+
+      - name: Format and release
+        id: scripts
+        run: |
+          python .github/workflows/format.py src/EDMM-dev.json src/EDMM-dev.json
+          REL_ID=$(python .github/workflows/release.py src/EDMM-dev.json vATIS-EDMM.json)
+          echo "release=${REL_ID}" >> "${GITHUB_OUTPUT}"
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet && exit 0
+          git commit -m "[AUTO] Format ${{ github.sha }} and release ${{ steps.scripts.outputs.release }}"
+          git pull --rebase origin ${{ github.ref_name }}
+          git push

@@ -1,0 +1,12 @@
+{
+  "observationTime": {
+    "standardUpdateTime": [
+      20,
+      50
+    ],
+    "template": {
+      "text": "{type} {day}{time}",
+      "voice": ". TIME {time}."
+    }
+  }
+}
