@@ -1,5 +1,5 @@
 {
-  "name": "EDMM DEV",
+  "name": "EDMM",
   "id": "292e75c9-c055-4d5a-a371-dbf3b2a478a9",
   "stations": [
     {
@@ -23563,5 +23563,5 @@
   ],
   "version": 4,
   "updateUrl": "https://raw.githubusercontent.com/VATGER-Nav/edmm-vatis/refs/heads/main/vATIS-EDMM.json",
-  "updateSerial": 2026091201
+  "updateSerial": 2026091300
 }
