@@ -1,5 +1,5 @@
 {
-  "name": "EDMM",
+  "name": "EDMM DEV",
   "id": "292e75c9-c055-4d5a-a371-dbf3b2a478a9",
   "stations": [
     {
@@ -2172,7 +2172,7 @@
         {
           "variableName": "LVP",
           "text": "LOW VIS PROCEDURES IN OPERATION, CAT II AND III AVAILABLE",
-          "voice": "LOW VISIBILITY PROCEDURES IN OPERATION, CAT II AND III AVAILABLE."
+          "voice": "LOW VISIBILITY PROCEDURES IN OPERATION, CAT 2 AND 3 AVAILABLE."
         },
         {
           "variableName": "LVP_LANDING_26R_DEPARTING_26L",
@@ -4354,7 +4354,7 @@
         {
           "variableName": "EDDP",
           "text": "ATIS EDDP",
-          "voice": "LAYBSIG INFORMATION"
+          "voice": "LIE-PSIG INFORMATION"
         },
         {
           "variableName": "DPA_ILSZ",
@@ -10888,7 +10888,7 @@
         {
           "variableName": "LVP",
           "text": "LOW VIS PROCEDURES IN OPERATION, CAT II AND CAT III AVBL",
-          "voice": "LOW VISIBILITY PROCEDURES IN OPERATION, CAT 2 AND CAT 3 AVAILABLE"
+          "voice": "LOW VISIBILITY PROCEDURES IN OPERATION, CAT 2 AND CAT 3 AVAILABLE."
         },
         {
           "variableName": "TMZ_INACTIVE",
@@ -19283,7 +19283,7 @@
         {
           "variableName": "LVP",
           "text": "LOW VISIBILITY PROCEDURES IN PROGRESS CAT III AVBL",
-          "voice": "LOW VISIBILITY PROCEDURES IN PROGRESS. CAT 3 AVAILABLE"
+          "voice": "LOW VISIBILITY PROCEDURES IN PROGRESS. CAT 3 AVAILABLE."
         },
         {
           "variableName": "DEP_ADVISORY",
