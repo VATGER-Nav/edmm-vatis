@@ -6674,13 +6674,18 @@
           "enabled": false
         },
         {
-          "text": "BIRDS",
+          "text": "\r\nBIRDS",
           "ordinal": 6,
           "enabled": false
         },
         {
-          "text": "WINDSHEAR",
+          "text": "\r\nWINDSHEAR",
           "ordinal": 7,
+          "enabled": false
+        },
+        {
+          "text": "\r\nLVP",
+          "ordinal": 8,
           "enabled": false
         }
       ]
@@ -23563,5 +23568,5 @@
   ],
   "version": 4,
   "updateUrl": "https://raw.githubusercontent.com/VATGER-Nav/edmm-vatis/refs/heads/main/vATIS-EDMM.json",
-  "updateSerial": 2026091300
+  "updateSerial": 2026091600
 }
