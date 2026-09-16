@@ -4354,7 +4354,7 @@
         {
           "variableName": "EDDP",
           "text": "ATIS EDDP",
-          "voice": "LIE-PSIG INFORMATION"
+          "voice": "LYPE-TSICK INFORMATION"
         },
         {
           "variableName": "DPA_ILSZ",
@@ -23568,5 +23568,5 @@
   ],
   "version": 4,
   "updateUrl": "https://raw.githubusercontent.com/VATGER-Nav/edmm-vatis/refs/heads/main/vATIS-EDMM.json",
-  "updateSerial": 2026091600
+  "updateSerial": 2026091601
 }
