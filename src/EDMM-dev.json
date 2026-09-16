@@ -6674,13 +6674,18 @@
           "enabled": false
         },
         {
-          "text": "BIRDS",
+          "text": "\r\nBIRDS",
           "ordinal": 6,
           "enabled": false
         },
         {
-          "text": "WINDSHEAR",
+          "text": "\r\nWINDSHEAR",
           "ordinal": 7,
+          "enabled": false
+        },
+        {
+          "text": "\r\nLVP",
+          "ordinal": 8,
           "enabled": false
         }
       ]
