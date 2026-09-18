@@ -2195,6 +2195,21 @@
           "voice": "ILS RWY ^26R ON MAINTENANCE, DISREGARD ALL SIGNALS. IF UNABLE RNP INFORM MUNICH ACC AS SOON AS POSSIBLE."
         },
         {
+          "variableName": "CONTACT_GROUND",
+          "text": "AFTER VACATING, CONTACT MUENCHEN GROUND AS PUBLISHED",
+          "voice": "AFTER VACATING, CONTACT MUNSHHEN GROUND AS PUBLISHED."
+        },
+        {
+          "variableName": "A388_26L_EXPEDITE",
+          "text": "A/C TYPE A388: EXPECT LANDING RWY 26L, VACATE LATEST B6",
+          "voice": "AIRCRAFT TYPE AIRBUS A ^380, EXPECT LANDING RUNWAY ^26 LEFT, VACATE LATEST BRAVO 6."
+        },
+        {
+          "variableName": "A388_08R_EXPEDITE",
+          "text": "A/C TYPE A388: EXPECT LANDING RWY 08R, VACATE LATEST B10",
+          "voice": "AIRCRAFT TYPE AIRBUS A ^380, EXPECT LANDING RUNWAY ^08 RIGHT, VACATE LATEST BRAVO ^10."
+        },
+        {
           "variableName": "BIRDS",
           "text": "ATTN: BIRDS IN THE VICINITY OF THE RWYS",
           "voice": "ATTENTION, BIRDS IN THE VICINITY OF THE RUNWAYS."
@@ -2311,6 +2326,21 @@
         {
           "text": "WINDSHEAR",
           "ordinal": 8,
+          "enabled": false
+        },
+        {
+          "text": "CONTACT_GROUND",
+          "ordinal": 9,
+          "enabled": false
+        },
+        {
+          "text": "A388_26L_EXPEDITE",
+          "ordinal": 10,
+          "enabled": false
+        },
+        {
+          "text": "A388_08R_EXPEDITE",
+          "ordinal": 11,
           "enabled": false
         }
       ]
