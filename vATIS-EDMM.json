@@ -4475,6 +4475,11 @@
           "variableName": "WINDSHEAR",
           "text": "CAUTION WINDSHEAR REPORTED",
           "voice": "CAUTION, WINDSHEAR REPORTED."
+        },
+        {
+          "variableName": "RWY_ASSIGNMENT_ON_DIRECTOR",
+          "text": "EXPECT RWY ASSIGNMENT ON DIRECTOR FREQUENCY",
+          "voice": "EXPECT RUNWAY ASSIGNMENT ON DIRECTOR FREQUENCY."
         }
       ],
       "airportConditionDefinitions": [
@@ -4506,58 +4511,63 @@
           "enabled": false
         },
         {
-          "text": "LVP",
+          "text": "RWY_ASSIGNMENT_ON_DIRECTOR",
           "ordinal": 3,
           "enabled": false
         },
         {
-          "text": "LVP_LANDING_26R_DEPARTING_26L",
+          "text": "LVP",
           "ordinal": 4,
           "enabled": false
         },
         {
-          "text": "LVP_LANDING_26L_DEPARTING_26R",
+          "text": "LVP_LANDING_26R_DEPARTING_26L",
           "ordinal": 5,
           "enabled": false
         },
         {
-          "text": "LVP_LANDING_08L_DEPARTING_08R",
+          "text": "LVP_LANDING_26L_DEPARTING_26R",
           "ordinal": 6,
           "enabled": false
         },
         {
-          "text": "LVP_LANDING_08R_DEPARTING_08L",
+          "text": "LVP_LANDING_08L_DEPARTING_08R",
           "ordinal": 7,
           "enabled": false
         },
         {
-          "text": "RWY_26R_CLSD_WIP",
+          "text": "LVP_LANDING_08R_DEPARTING_08L",
           "ordinal": 8,
           "enabled": false
         },
         {
-          "text": "RWY_26L_CLSD_WIP",
+          "text": "RWY_26R_CLSD_WIP",
           "ordinal": 9,
           "enabled": false
         },
         {
-          "text": "RWY_08L_CLSD_WIP",
+          "text": "RWY_26L_CLSD_WIP",
           "ordinal": 10,
           "enabled": false
         },
         {
-          "text": "RWY_08R_CLSD_WIP",
+          "text": "RWY_08L_CLSD_WIP",
           "ordinal": 11,
           "enabled": false
         },
         {
-          "text": "BIRDS",
+          "text": "RWY_08R_CLSD_WIP",
           "ordinal": 12,
           "enabled": false
         },
         {
-          "text": "WINDSHEAR",
+          "text": "BIRDS",
           "ordinal": 13,
+          "enabled": false
+        },
+        {
+          "text": "WINDSHEAR",
+          "ordinal": 14,
           "enabled": false
         }
       ]
@@ -23578,5 +23588,5 @@
   ],
   "version": 4,
   "updateUrl": "https://raw.githubusercontent.com/VATGER-Nav/edmm-vatis/refs/heads/main/vATIS-EDMM.json",
-  "updateSerial": 2026092000
+  "updateSerial": 2026092500
 }
